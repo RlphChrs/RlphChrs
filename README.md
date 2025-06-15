@@ -13,7 +13,7 @@ During my academic journey, I discovered a strong interest in both front-end dev
 - **TailwindCSS**
 - **Python (Pandas, Matplotlib)**
 - **SQL**
-- **Excel / Google Sheets for data analysis**
+- **Excel / Google Sheets, PowerBI for data analysis**
 
 ## 🌟 Favorite Project
 
