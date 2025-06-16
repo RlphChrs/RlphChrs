@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Ralph Pilapil
 
-I'm a fresh BSIT graduate open to any role in tech — from web development to data analytics. I'm passionate about learning new tools, solving real-world problems, and making meaningful contributions through code and data.
+I'm a fresh BSIT graduate open to any role in tech from web development to data analytics. I'm passionate about learning new tools, solving real-world problems, and making meaningful contributions through code and data.
 
 ## What I Do
 
