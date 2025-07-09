@@ -22,7 +22,7 @@ My **capstone project** combined creativity and technical skills, it was a full-
 
 ## 📊 Recent Interest: Data Analytics
 
-Lately, I’ve been diving into data analytics — working with real-world datasets to uncover trends, visualize insights, and tell compelling stories through data. I'm currently exploring:
+Lately, I’ve been diving into data analytics, working with real-world datasets to uncover trends, visualize insights, and tell compelling stories through data. I'm currently exploring:
 - Cleaning & transforming data using Python and Pandas  
 - Creating dashboards and reports using Google Sheets, Tableau  / PowerBI
 - Writing basic SQL queries to interact with databases  
